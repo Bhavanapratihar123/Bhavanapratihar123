@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavana Pratihar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" width="400" src="https://yt3.googleusercontent.com/ytc/AGIKgqP91xUnOUOFoF1PeOwiIsq_HuhqfoUXiaaq21M=s900-c-k-c0x00ffffff-no-rj"/>
 
 - 🔭 I’m currently working on **fiction(write and read)**
 
